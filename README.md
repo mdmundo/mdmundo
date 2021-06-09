@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/test.jpeg" alt="Tests" style="zoom: 5%;" />
+  <img src="assets/tests.jpeg" alt="Tests" />
 </p>
